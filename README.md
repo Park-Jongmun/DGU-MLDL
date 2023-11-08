@@ -2,7 +2,6 @@
 동국대학교 머신러닝및딥러닝 중간고사  
 Dongguk University Machine Learning and Deep Learning Midterm Exam
 
-
 음원 또는 음악의 맥락에서 ```스펙트럴(Spectral) 분석```은 소리나 신호를 푸리에 변환으로 분석해 특징(feature)을 추출하는 작업이다.  
 스펙트럴 분석의 결과는 수이며 이는 이미지로 시각화 될 수 있다.  
   
